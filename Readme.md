@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to Apply the Icon Ranges Conditional Formatting to Grid Cells
 
-This example demonstrates how to to use a predefined or custom set of icons/colors to apply conditional formatting to the different ranges of values. The [FormatConditionRangeSet](docs.devexpress.devx/Dashboard/DevExpress.DashboardCommon.FormatConditionRangeSet) class contains the conditional formatting settings.
+This example demonstrates how to to use a predefined or custom set of icons/colors to apply conditional formatting to the different ranges of values. The [FormatConditionRangeSet](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.FormatConditionRangeSet) class contains the conditional formatting settings.
 
 Click the **Update Formatting** button to change the number of ranges, specify new range boundaries and customize icons related to existing ranges.
 
