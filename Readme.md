@@ -3,12 +3,11 @@
 
 * [Form1.cs](./CS/Dashboard_ConditionalFormatting_Grid/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ConditionalFormatting_Grid/Form1.vb))
 <!-- default file list end -->
-# How to apply conditional formatting to Grid cells using the Icon Ranges format condition
+# How to Apply the Icon Ranges Conditional Formatting to Grid Cells
 
+This example demonstrates how to to use a predefined or custom set of icons/colors to apply conditional formatting to the different ranges of values. The [FormatConditionRangeSet](docs.devexpress.devx/Dashboard/DevExpress.DashboardCommon.FormatConditionRangeSet) class contains the conditional formatting settings.
 
-<p>Range conditions (<a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardCommonFormatConditionRangeSettopic">FormatConditionRangeSet</a>) allow you to use predefined or custom sets of icons/colors to apply conditional formatting to different ranges of values.</p>
-<p>This example shows how to apply conditional formatting to Grid cells using a predefined set of icons. Use the <strong>Update Formatting</strong> button to change the number of ranges, specify new range boundaries and customize icons corresponding to existing ranges.</p>
+Click the **Update Formatting** button to change the number of ranges, specify new range boundaries and customize icons related to existing ranges.
 
-<br/>
-
+![screenshot](/images/screenshot.png)
 
