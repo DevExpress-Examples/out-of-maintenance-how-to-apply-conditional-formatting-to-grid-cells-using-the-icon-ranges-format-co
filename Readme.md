@@ -13,7 +13,7 @@ Click the **Update Formatting** button to change the number of ranges, specify n
 
 ## Documentation
 
-[Conditional Formatting](https://docs.devexpress.com/Dashboard/402204])
+[Conditional Formatting](https://docs.devexpress.com/Dashboard/402204)
 
 ## More Examples
 
